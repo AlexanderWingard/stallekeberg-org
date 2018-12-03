@@ -1,0 +1,419 @@
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="style.css" />
+#+HTML_HEAD_EXTRA: <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+#+HTML_HEAD_EXTRA: <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script> 
+#+HTML_HEAD_EXTRA: <script src="script.js"></script> 
+#+HTML_HEAD_EXTRA: <meta name="viewport" content="width=device-width, initial-scale=1"> 
+#+OPTIONS: num:nil html-postamble:nil
+#+MACRO: PHOTO @@html:<figure><img src="$1"></img><figcaption>$2</figcaption></figure>@@
+* VÄLKOMMEN
+#+ATTR_HTML: :title 
+{{{PHOTO(imgs/stella_i_mal_3.jpg, Stella W\, Falsterbo 2014 med Christoffer Andersson)}}}
+{{{PHOTO(imgs/stella_w_1.jpg, Stella W\, sto 09)}}}
+{{{PHOTO(imgs/sashi_f.jpg, Sashi W\, sto 08)}}}
+{{{PHOTO(imgs/sidan_ett\,_armani_w.jpg, Armani W\, hingst 08)}}}
+
+till Stall Ekeberg i Husaby på Kinnekulle, mitt emellan Lidköping och Götene/E4. Här utvecklar vi kvalitetshästar främst för hoppsporten.
+
+I stallet har vi nu
+
+*EN NIOÅRING*\\
+Stella W prestations- och selektionssto e Cartier-Landlord, dräktig med
+Diarado e Diamant de Semilly - CorradoI\\
+*OCH EN 4-ÅRIG VALACK*\\
+Max W e Warrant- Landlord som startade tävlingskarriären i år\\
+och *Naomi*, AB-diplomerat avelssto och selektionssto, SWB.
+
+*Bilder och mer om hästar och härstamning under stonas namn i
+högerspalten.*\\
+{{{PHOTO(imgs/max_4.jpg, Max W e Warrant-Landlord född 2014\, diplomföl)}}}
+{{{PHOTO(imgs/hennaw_hopp1-1_pernilla_hagg.jpg, Henna W\, sto e Heartbeat-Landlord född 2011. Foto Pernilla Hägg)}}}
+{{{PHOTO(imgs/sashi_d.jpg, Sashi W\, segrande hopptalang på Kvalitétsbedömningen 2012.)}}}
+{{{PHOTO(imgs/fol_1_2011.jpg, Latina med\, Henna W\, e Heartbeat född 2011.)}}}
+{{{PHOTO(imgs/luna_w_1_hem.jpg, Luna W\, sto 09)}}}
+
+Foto Ingvar Andersson, om ingenting annat anges
+
+* NYHETER
+*JULI-AUGUSTI 2017*\\
+*STELLA W* gör stark comeback efter skada, vila och rehab. 10 starter på
+tre sensommarmeetings, 6 felfria rundor och tre placeringar. Mycket fin
+form. *SASHI W* är fortsatt lysande med placeringar som 2:a och 5:a på
+1.40, 4:a på 1.45 med Debbie McCarthy Connor, rankad bland USA:s 100
+bästa hoppryttare. *MAX W* går sina sista sommarlovsveckor med
+kompisarna i beteshagen. I mitten på september inhoppning med Nils
+Stridh Svensson.
+#+HTML: <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPCFEquestrian%2Fphotos%2Fa.132809517284859.1073741827.132802793952198%2F143284102904067%2F%3Ftype%3D3&amp;width=500" width="500" height="505" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+
+*JUNI 2017*\\
+*SASHI W* tävlar 3-stjärnigt i USA, placerad 2:a, 5:a och 8:a med Debbie
+McCarthy Connor, bilden ovan. MAX W tar det mycket lugnt i sommarhagen
+med jämnårig kompis från Nydala. STELLA W tränar för nystart i juli.
+#+HTML: <iframe width="560" height="315" src="https://www.youtube.com/embed/3pLFhwxPMuQ?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+\\
+*MAJ 2017*\\
+*Max W* gör sitt unghästtest med glans. Höga betyg på exteriören, lite
+matt i hoppningen för dagen, men lovande hopptalang, klass 1 och lovande
+gångartstalang, klass 1. Ridprov med beröm godkänt för samarbetsvilja,
+för att han är väl framme i sin utbildning, bär upp sin ryttare väl och
+visas väl av Sofia Spaak Andersson!
+#+HTML: <iframe width="560" height="315" src="https://www.youtube.com/embed/tTkMs1RUahY?rel=0" frameborder="0" allowfullscreen=""></iframe>
+*FEBRUARI-MARS 2017*\\
+*Max W* i träning på Nydala för unghästest i maj. Från Florida hörs
+lovord och fina resultat för Sashi W. Stellas rehabilitering närmar sig
+slutet, från maj i full träning, äntligen!
+
+*SEPTEMBER-OKTOBER*\\
+*Max W* rids in av Sofia, Sanna och Christoffer på Nydala, och sköter
+sig mycket bra. Hem till Husaby för cirka tre månaders vila.
+
+*JULI-AUGUSTI*\\
+*Stella* har haft problem med ryggen och är under behandling. *Max W*
+går i sommarhage på Råbäck med sina årskompisar, alla tre nu valacker.
+
+*JUNI*\\
+*LATINA*höjs till avelsvärdebokstav A, mycket nära Elit i poäng! *Sashi
+W* och *Stella W* får prestationsklass 2*, av tre möjliga. *Henna W* som
+inte hunnit prestera så mycket få 1*. Samtliga våra ston har nu
+beteckningen Selektionssto, bedömda som särskilt lämpliga för avel.
+
+*MAJ*\\
+*Stella W* glänser på Grevagården, går en fin dubbelnolla på 1.35 i
+Hammarö. En lindrig skada sätter sedan stopp, ingen start i Falsterbo i
+år.
+
+*APRIL*\\
+Dubbelnolla i 1.40-debuten för *Stella!*
+
+*MARS*\\
+*Stella W* gör en flygande start på 1.30 i Jönköping.
+
+*FEBRUARI 2016*\\
+*Sashi W* är såld till en framgångsrik amerikansk Young rider. Stella W
+tränar inför årets första start. Max W missar planerad löshoppning, han
+står inne i fyra veckor med en knepig hovböld.
+
+*DECEMBER*\\
+*Sashi W* flyger till Florida, USA för att tävla där under vintern.
+*Stella W* har vilat, träningen påbörjad för 2016. *Max W* tränas i ett
+par korta pass i löshoppningsbana, över låga bommar. Naturtränar annars
+med sina jämnåriga.
+
+*OKTOBER*\\
+*Sashi W* såld till *Ludo Philippearts!*\\
+Sashi har varit en glädjekälla från första dagen, som föl, genom
+unghästtester med superresultat, Falsterbo och Breeders-finaler och med
+placeringar i sin internationell debut i Danmark i somras. Utvecklad,
+tränad och tävlad av Christoffer och Sofia på Nydala Equestrian. Nu har
+hon börjat sitt nya liv i superstallet i Belgien.\\
+*Stella W* nollade fint i första kvalet på Flyinge, men missade i andra,
+ingen final i år.\\
+*Max W* växer sig stor! Han utvecklas fint med sina kompisar i hagen på
+Råbäck. De tre som är hemma glassar i höstsolen, ensamma i stora hagar,
+
+*SEPTEMBER*\\
+*Sashi W* har visat klassen med flera fina rundor på 1.40. *Stella W* är
+kvalad till Avelschampionatet och Breeder's.\\
+*Henna W* har gjort sin första tävling med Caroline Bohre,
+hoppstipendiat på Strömsholm - 0 fel på 80 cm, en bom ner på 90. Mycket
+fin i formen.
+
+*JULI - AUGUSTI*\\
+Sashi W och Stella W i topp!\\
+*Sashi* gjorde sina första internationella starter i Riders Cup i
+Danmark . 1* Big Tour, med Christoffer Andersson i sadeln. 0 fel och
+16:e placerad av 100 startande på 1.30-hinder.. 0 fel och placerad 12:a
+av 88 startande på 1.35. Helt glänsande. Inte många 7-åringar gör om
+det.\\
+*Stella W* visade kvaliteten på Varberg Summer Show i förra veckan: en
+suverän dubbelnolla på 1.25 och en nollrunda på 1.30!
+#+HTML: <iframe width="560" height="315" src="https://www.youtube.com/embed/YkP8AayoNbY?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+*JUNI*\\
+*Stella W* på banan igen efter skada och lång konvalescens - felfri på
+1.30 på Grevlundas fina tävlingar. *Sashi W* gick sitt livs tredje 1.40,
+svår bana och felfri!\\
+Båda i fin form på Åby, Göteborg över midsommar. Sashis suveräna
+1.35-runda i videoklippet ovan.
+
+*MAJ*\\
+*Sashi W* är i högform. Två fina, felfria rundor i Norrköping Horse Show
+och klar för finalen i 7-star Spring Tour söndag 24 maj! Videoklipp på
+facebook.com/stallekeberg.com
+
+*APRIL*\\
+*Henna W* är såld. Hon har nu flyttat till Strömsholm för vidare
+utbildning, träning och tävling för RS Strömsholm.
+
+*MARS*\\
+Tävlingsåret 2014 gav *Sashi W* en plats i topp - 10:a i Sverige i sin
+årskull! I säsongsdebuten i Jönköping var hon återigen felfri, 9:a av 50
+startande.
+
+*FEBRUARI 2015*\\
+*Henna W* har varit i träning hos Christoffer Andersson, Nydala
+Equestrian och har gjort sina första rundor på hinder.
+
+*Max W*, 10 månader, avvand, stor och stilig, har flyttat till jämnåriga
+hingstkompisar på Råbäcks säteri. Inte så långt bort, vi kan hålla
+kontakten.
+
+*NOVEMBER*\\
+*Sashi W* går den ena felfria 1.30 rundan efter den andra. Hon gjorde
+sin första start på 1.35, avdelning A på Grevagården i november - felfri
+och placerad i konkurrens med 60 startande, de flesta äldre och mer
+rutinerade! Se filmen här:
+#+HTML: <iframe width="560" height="315" src="//www.youtube.com/embed/povSwsNQQXk?rel=0" frameborder="0" allowfullscreen=""></iframe> 
+*OKTOBER 2014*\\
+*Sashi W* och Christoffer Andersson visar upp sig i två felfria kval på
+Flyinge och går till final! En bom ner. slutresultat placerad 11 av 35.
+
+*SEPTEMBER*\\
+*Sashi W* är kvalad till Breeder's i oktober. Gör tre starter den här
+månaden, solklara nollrundor. Stella W är också klar för
+Avelschampionatet på Flyinge, men vrickar foten...
+{{{PHOTO(imgs/max_4.jpg, Max W\, diplom och tvåa i fölchampionatet
+)}}}\\
+
+*AUGUSTI 2014*\\
+*Stella W* och Christoffer Andersson gör repris på förra årets succé på
+Champion of the Youngsters - 0 fel från kval 1, kval 2, final och
+omhoppning. 12 av 203 femåringar klarade det!\\
+*Max W*, 3 månader, visas på fölbedömningen, tar diplom och en
+andraplats i championatet!
+
+*JULI 2014*\\
+*Sashi* och *Stella* går båda semifinalerna i Falsterbo med den äran.
+
+*JUNI 2014*\\
+*Sashi* Och *Stella* båda hos Rolf-Göran Bengtsson och Bo Kristofferson
+i Breitenburg för några dagars träning.
+
+{{{PHOTO(imgs/hennaw_hopp1-1_pernilla_hagg.jpg, Henna W 2011 visar hoppbegåvning. Foto pernilla Hägg)}}}\\
+*MAJ 2014*\\
+Den 3:e maj får Latina en stor och vacker hingstunge. Han döps till *Max
+W*\\
+*Henna W* visas på 3-årstest med höga poäng och extra beröm för fin
+benteknik i hoppning.\\
+*Sashi* tränar några dagar med Christoffer hos RGB i Breitenburg.\\
+*Sashi* och *Stella* båda kvalade till Scandinavian Open i Falsterbo.
+
+*APRIL 2014*
+
+*MARS 2014*
+
+*FEBRUARI 2014*\\
+*Luna W* till och med maj i träning för Anneli Borgh.
+
+*JANUARI 2014*\\
+*Sashi* och *Stella* i träning hos Christoffer Andersson, Nydala, för
+vårens tävlingar.
+
+{{{PHOTO(imgs/stellaw_hopp.jpg, Stella W\, Youngster-kval och final med 0 fel. Foto Pernilla Hägg)}}}\\
+*AUGUSTI 2013*\\
+*Stella W* går etta som gångartshäst på Kvalitetsbedömningen! Men också
+med poängen 8,8 i hoppning och 9,5 för galoppen.
+
+*AUGUSTI 2013*\\
+*Dubbelsuccé på Champion of the Youngsters.*\\
+*Sashi W* gick felfri hela vägen till final och omhoppning, fyra
+klockrena rundor! Med Christoffer Andersson i sadeln var hon en av fem
+5-åringar, av över 170 startande, med den strålande prestationen.
+
+*Stella W* startade i sin första större tävling - och var felfri genom
+två kval och en final, med Christoffer. Tolv 4-åringar, av de 135
+startande, klarade det.
+
+*JULI 2013*\\
+*Sashi W* f 2008 (e Careful-Landlord) gjorde två fantastiskt fina rundor
+med Christopher Andersson i semifinalerna på Falsterbo i juli 2013.
+
+*MAJ, JUNI, JULI 2013*\\
+*Luna W* tränar med Anneli Borgh och Petra Lundquist på Store Höjen
+Dressyr och blir bara bättre.
+
+*OKTOBER 2012*\\
+*Sashi W* kvalade i semifinalerna till Avelschampionatet. På Flyinge tog
+hon en strålande tredjeplacering i Breeder's Trophy med Sofia Spaak
+Andersson i sadeln.
+
+*SEPTEMBER 2012*\\
+*Sashi W* blir bästa hopphäst på Kvalitetsbedömningen, med diplom och
+höga domarpoäng (8 8 8 exteriört, 9,8 på hoppningen).
+
+*MAJ 2012*\\
+*Stella W* tog en andraplats och mycket fina 50 poäng på 3-årstestet med
+3 x 8 exteriört, 9,8,9 på galopp och hoppning.
+
+*AUGUSTI-SEPTEMBER 2011*\\
+*Henna W* till final i fölchampionatet på Axevalla , blev 2:a och
+kvalade till Riksföl. Där gick hon till final och tog bronsplatsen, med
+mycket fina lovord
+
+*MAJ 2011*\\
+*Sashi W* tog hoppdiplom och en andraplats i 3-årstestet på Grevagården
+i Skövde.
+
+* UNGHÄSTAR
+Våra unghästar är mycket hanterade, trygga och tillitsfulla. Samtliga
+hästar är regelbundet verkade, vaccinerade, registrerade i ASVH samt
+anslutna till Breeder's Trophy. Ring Ulla Wingård för mer information:
+073 301 9590, 0511-34 32 90\\
+\\
+
+*SASHI W*\\
+{{{PHOTO(imgs/12009642-9qvel.jpg, Sashi W\, 3:a på Breeders Trophy 2013)}}}
+{{{PHOTO(imgs/sashi_a.jpg, Sashi sommaren 2010)}}}
+{{{PHOTO(imgs/sashi_d.jpg, Sashi W\, segrande hopptalang på Kvalitétsbedömningen 2012.)}}}
+
+Sto e Careful (Contender-Veritas) u Latina e Landlord(Landgraf-Rushing
+Water xx), född 1 juni 2008.\\
+Sashi W tog diplom med 8-8 i hoppning och en andraplacering på sitt
+3-årstest. 2012 bästa hopphäst på kvalitetsbedömningen och 3:a i
+Breeder's Trophy under avelschampionaten på Flyinge samma år. Som 5- och
+6-åring har hon radat upp fina nollrundor på 1.30 och 1.35-hoppningar
+med Christoffer Andersson i sadeln. I final på Breeder's i oktober. 2015
+internationell debut med placeringar i Danmark.\\
+Hennes resultat 2014 gav henne toppranking i årskullen, nr 10 i
+Sverige.\\
+Hösten 2015 såldes Sashi via Ludo Phillippaerst till en framgångsrik ung
+ryttare i Florida.
+
+*STELLA W*\\
+{{{PHOTO(imgs/stella_w_2_hem.jpg, 50 poäng\, tvåa på 3-årstest)}}}
+{{{PHOTO(imgs/stellaw_hopp.jpg, Stella W\, sto  född 2008 e Cartier-Landlord. Foto Pernilla Hägg)}}}
+
+Sto e Cartier (Contender-Capitol i) u Latina e Landlord(Landgraf
+I-Rushing Water xx) född 2009. Stella fick fina 50 poäng på sitt
+3-årsfest med 9 på sin galopp, 8 och 9 i hoppbetygen. Som 4-åring var
+hon etta på kvalitetsbedömningen och startade tävlingskarriären med en
+rad felfria rundor med Christoffer Andersson som pilot. I augusti 2014
+gjorde de om bedriften på Champion of the Youngsters 2013 - felfria rakt
+igenom kval 1 och 2, final och omhoppning!\\
+Sommaren 2015 kvalade hon till Breeder's med en hel rad felfria 1.30
+rundor.
+
+*MAX W*\\
+{{{PHOTO(imgs/max_2.jpg, Max W\, två veckor. Foto Sarah Wingård)}}}
+
+e Warrant (Numero Uno-Nimmerdor) född 3 maj 2014. En superkille som tog
+diplom och en andraplacering på fölchampionatet i augusti. Nu tränas han
+för livet i en liten flock med tre jämnåriga hingstar på Råbäcks säteri.
+
+
+* AVELSTON
+Vi har haft två avelston i bas för aveln, båda svenska varmblod, SWB.
+
+Latina född 1999 med meriterad hoppstam, e Landlord (Elit) u Nighttimes
+Adventure e Paroll.
+
+*/Mer om Latina: klicka på namnet i listan till höger./*
+
+Naomi född 1998, i hennes stam finns både dressyr- och hoppbegåvning med
+hoppdiplom men något plus förr dressyren, hon är e Eloge(dubbel
+bruksprovsvinnare) u Simone e Ceylon(Elit).
+
+*/Mer om Naomi: klicka på namnet i listan till höger./*
+
+{{{PHOTO(imgs/ivantanstider.jpg, Naomi och Latina\, december 2007. I väntans tider.)}}}
+
+
+* Latina
+{{{PHOTO(imgs/latina.jpg)}}}
+Latina är född -99, e Landlord - Nighttimes Adventure(stofamilj 55)- Paroll,
+svenskt varmblod, SWB och pappa till Jens Fredricsons berömda Isac.\\
+Modern tävlade framgångsrikt upp till 1.45 i hoppning. Stofamilj 55,
+(Hakata-familjen) innehåller en rad framgångsrika avelsston som lämnat
+prestationsavkommor på tävlingsbanan.\\
+*Landlord* premierades Elit, hans många meriterade avkommor inkluderar t
+ex Rodrigo Pessoas VM-häst Lianos och Jens Fredricsons Lunatic,
+internationell framgångssaga.
+
+*Latina* mäter 1.62 över manken, en mycket fin hopphästmodell, smidig,
+vändbar, fantastiskt god hoppteknik.\\
+Hon kom till oss som 6-åring, har tävlat sparsamt men har vinster och
+placeringar i lätta klasser upp till 1.10 och kapacitet för minst Msv
+hoppning.
+
+2016 fick Latina avelsvärdeklassen höjd till A.
+
+Latina fick den 1 juni 2008 *Sashi W*, ett stoföl e GP-hingsten *Careful
+1112*, född 1999 e Contender-Veritas, en stam i det absoluta toppskiktet
+i Europa, i både avel och tävling. Han var segerhingst i hoppning i sitt
+tyska bruksprov 2003.\\
+Sashi W var trea i Breeders som 4-åring och i final som 6-åring, tävlade
+mycket framgångsrikt coh såldes 2015 till USA fär hon har rader av fina
+placeringar.
+
+2009 föddes hopplöftet *Stella W*. Hon är e *Cartier*, Contender-son som
+Careful, med stark holsteinerstam för hoppning, morfar är Capitol I.
+Stella har vinster och placeringar upp till 1.40. Hon är 2018 dräktig
+med Diarado e Diamant de Semilly\\
+- Corrado I.
+
+I juni 2011 fick Latina en turbosnabb, långbent dotter e *Heartbeat*
+(Heartbreaker-Ramiro Z). *Henna W* tog en andraplats på fölchampionatet
+och en tredjeplats på Riksföl. Hon är inriden och tränad på Nydala
+Equestrian.\\
+Henna W såldes i mars 2015 till RS Strömsholm för vidare utbildning,
+träning och tävling.
+
+3 maj 2014 föddes Latinas första hingstföl, *Max W,* e Warrant, med far
+och morfar i holländska och europeiska hopptoppen: Numero
+Uno-Nimmerdoor. *Warrant* hann vinna Grand Prix-hoppningar och tog
+placeringar i världscupen innan han 2013 såldes till USA.\\
+Max W startade tävlingskarriären 2018 med fina resultat.
+
+Latina blev mycket sjuk och fick somna in vintern 2017.
+
+Foto: Ingvar Andersson
+{{{PHOTO(imgs/latina_stambok_1.jpg)}}}
+{{{PHOTO(imgs/latina_stambok_2.jpg)}}}
+{{{PHOTO(imgs/latinatavlar.jpg, Latina tavlar i Falköping våren 06)}}}
+{{{PHOTO(imgs/latinaifalkoping.jpg, Latina i fin form)}}}
+
+* Naomi
+{{{PHOTO(imgs/pic10.jpg, Naomi och Latina på sommarbete 2007)}}}
+Naomi är född 1998, hos Yvonne och Ingvar Gustavsson, Gällstad. Hon är e
+Eloge(dubbel bruksprovsvinnare)-Simone-Ceylon (Elit), svenskt varmblod,
+SWB.
+
+Naomi är 1.70 över manken, med naturlig resning, mycket fina gångarter
+med avspänd skritt och elastisk, taktmässig trav. Hon har lätt för
+samling, är smidig trots sin storlek, och hoppar gärna med bra teknik.
+
+Naomi fick avelsföreningens diplom som treåring, betäcktes med
+Flyingehingsten Ragazzo och fick ett stoföl 2002, Nefertiti. Hon har
+tävlat framgångsrikt i hoppning.
+
+Naomi är premierad AB.
+
+Naomi kom till Ekeberg 1 augusti 2006. Hon betäcktes i maj 2007 med
+[[http://www.angagarden.com][Dionysos)}}}, f -97 e De Niro (e Donnerhall)
+ue Rubinstein , och fick ett fantastiskt fint hingstföl, klass 1 på
+fölmönstringen.
+
+2009 fick vi *Luna W*, ett vackert stoföl efter *Richfield*
+(Riccione-Ferragamo). Richfield vann bruksprovet i dressyr 2004.>\\
+Mer om *Luna W* under UNGHÄSTAR nedan.
+
+{{{PHOTO(imgs/naomi_1.jpg)}}}
+{{{PHOTO(imgs/naomi_o_sarah.jpg)}}}
+{{{PHOTO(imgs/Naomi6.jpg, Naomi och Anneli Borgh)}}}
+
+* STALL och HAGAR
+{{{PHOTO(imgs/Interioristallet.jpg, Interior stallet)}}}
+{{{PHOTO(imgs/pic14.jpg, Skötplats)}}}
+{{{PHOTO(imgs/Naomiistallet.jpg, Naomi i stallet)}}}
+{{{PHOTO(imgs/pic31.jpg, På väg ut i sommarhagen)}}}
+{{{PHOTO(imgs/pic16.jpg, Sommarhagen i höstdimma)}}}
+{{{PHOTO(imgs/pic12.jpg, Latina i stallet)}}}
+{{{PHOTO(imgs/pic8.jpg, Sommar)}}}
+{{{PHOTO(imgs/pic7.jpg, Stallhagen)}}}
+{{{PHOTO(imgs/pic5.jpg, En av två vinterhagar)}}}
+{{{PHOTO(imgs/pic4.jpg, En av två vinterhagar)}}}
+* KONTAKT
+Ring Ulla Wingård, 073 301 95 90 eller 0511 34 32 90.
+
+E-post: [[mailto:ulla.wingard@stallekeberg.com][ulla.wingard@stallekeberg.com]]
